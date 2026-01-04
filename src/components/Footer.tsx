@@ -19,7 +19,7 @@ const Footer = () => {
         <div className="flex gap-4 text-xl">
           {/* X */}
           <a
-            href="https://x.com/YourXLink" // Update with your real X link
+            href="https://x.com/bruceaijames?s=21" // Update with your real X link
             target="_blank"
             rel="noopener noreferrer"
             className="relative p-3 rounded-full bg-black text-white
@@ -32,7 +32,7 @@ const Footer = () => {
 
           {/* Telegram */}
           <a
-            href="https://t.me/solestateofficial" // Updated Telegram link
+            href="https://t.me/+7oS-knmsPsY4OGFk" // Updated Telegram link
             target="_blank"
             rel="noopener noreferrer"
             className="relative p-3 rounded-full bg-[#0088cc] text-white
