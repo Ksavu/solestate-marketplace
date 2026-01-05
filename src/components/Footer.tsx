@@ -19,7 +19,7 @@ const Footer = () => {
         <div className="flex gap-4 text-xl">
           {/* X */}
           <a
-            href="https://x.com/bruceaijames?s=21" // Update with your real X link
+            href="https://x.com/estatesol27374?s=21" // Update with your real X link
             target="_blank"
             rel="noopener noreferrer"
             className="relative p-3 rounded-full bg-black text-white
